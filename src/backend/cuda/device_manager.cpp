@@ -115,6 +115,7 @@ static const cuNVRTCcompute Toolkit2MaxCompute[] = {
 // clang-format off
 static const ToolkitDriverVersions
     CudaToDriverVersion[] = {
+        {11010, 455.23f, 456.38f},
         {11000, 450.51f, 451.48f},
         {10020, 440.33f, 441.22f},
         {10010, 418.39f, 418.96f},
